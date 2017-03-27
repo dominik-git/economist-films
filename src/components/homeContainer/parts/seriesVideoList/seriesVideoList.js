@@ -8,7 +8,8 @@ const settings = {
   className: 'center',
   infinite: true,
   centerMode: true,
-  speed: 500,
+  speed: 300,
+  dots: true,
   slidesToShow: 5,
   slidesToScroll: 1,
   arrows: true,
@@ -26,12 +27,14 @@ const settings = {
       slidesToShow: 2,
       slidesToScroll: 1,
       initialSlide: 2,
+      dots: true,
     },
   }, {
     breakpoint: 480,
     settings: {
       slidesToShow: 1,
       slidesToScroll: 1,
+      dots: true,
     },
   }],
 };
@@ -39,11 +42,16 @@ const settings = {
 const VideoItems = shelves => shelves.map((shelf) => {
   const imageUrl = shelf.items[0].thumbnail.url;
   return (
-    <div
-      key={shelf.id}
-      style={{ backgroundImage: `url(${imageUrl})` }}
-    >
-      <h3>{shelf.title}</h3>
+    <div>
+      <div
+        key={shelf.id}
+        style={{ backgroundImage: `url(${imageUrl})` }}
+      >
+        <h3>{shelf.title}</h3>
+      </div>
+      <div>
+        <p >Watch</p>
+      </div>
     </div>
   );
 });

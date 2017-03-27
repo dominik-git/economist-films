@@ -9,23 +9,53 @@
   background: #419be0;
 }
 
+.slick-track {
+  position: relative;
+  top: 0;
+  left: -20px;
+  display: block;
+}
+
+.slick-slide {
+  display: none;
+  float: left;
+  min-height: 200px;
+  margin-right: 5px;
+}
+
 .center .slick-center h3 {
   opacity: 1;
-  font-size: 35px;
+  height: 200px;
   transition: all 0.3s ease;
 }
 
 .center .slick-center {
   display: block;
-  background: blue;
+  background: rgba(0, 0, 0, 0);
   opacity: 1;
   font-size: 35px;
-  transition: all 0.8s ease;
+  border: solid 3px rgba(243, 238, 238, 0.97);
 }
 
-.slick-slide p,
-h3 {
+.slick-slide h3 {
   color: #fff;
   text-align: center;
   font-size: 25px;
+  margin: 0;
+  padding: 0;
+  height: 200px;
+}
+
+.slick-slide p {
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+.center .slick-center p {
+  display: block;
+  font-size: 35px;
 }
