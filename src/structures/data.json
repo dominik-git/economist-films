@@ -1,0 +1,2680 @@
+{
+  "shelves": [
+    {
+      "id": 19,
+      "title": "Daily Watch this week",
+      "series_id": null,
+      "order": 1,
+      "created_at": "2016-12-02 11:54:53 UTC",
+      "updated_at": "2017-03-19 15:51:54 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "date_new",
+      "item_layout": "",
+      "type": "category",
+      "analytics_tags": {
+        "TwID": "economist-19",
+        "TwLinkPage": "Daily Watch this week _shelf",
+        "CreatedDate": "2016|12|02"
+      },
+      "items": [
+        {
+          "id": 142,
+          "title": "Kal draws... Poor impulse control ",
+          "description": "As president, Donald Trump needs to pause, reflect and resist the urge to attack when communicating. But can he think twice before speaking? Our cartoonist Kal gives his take",
+          "created_at": "2017-03-20 18:03:53 UTC",
+          "updated_at": "2017-03-20 18:06:26 UTC",
+          "series_id": 5,
+          "video_url": "https://cdn-films.economist.com/DW/MAR20/Kal_Think_Twice.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "Tuesday, March 21st 2017",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/portrait_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/landscape_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/square_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/feature_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/thumb_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/full_width_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/small_landscape_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/142/small_portrait_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-03-21 00:00:00 UTC",
+          "long_title": "Daily Watch this week: Kal draws... Poor impulse control ",
+          "category_list": [
+            "MAR20"
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/142/json",
+          "analytics_tags": {
+            "TwID": "economist-142",
+            "TwVideoName": "kal-draws-poor-impulse-control",
+            "TwName": "Kal draws... Poor impulse control ",
+            "TwLinkPage": "Kal draws... Poor impulse control ",
+            "CreatedDate": "2017|03|20",
+            "PublicationDate": "2017|03|21"
+          },
+          "video_file": "https://cdn-films.economist.com/DW/MAR20/Kal_Think_Twice.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 365,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/365/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/365/thumb_1920X1080.jpg"}},
+              "created_at": "2017-03-20 18:05:51 UTC",
+              "updated_at": "2017-03-20 18:05:51 UTC"
+            },
+            {
+              "id": 364,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/364/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/364/thumb_400X400.jpg"}},
+              "created_at": "2017-03-20 18:05:11 UTC",
+              "updated_at": "2017-03-20 18:05:11 UTC"
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "title": "Which gender is happier?",
+          "description": "Smiling, enjoyment and laughter are just some of the ways of expressing well being. On International Happiness Day we ask people in New York City if men or women are happier.",
+          "created_at": "2017-03-17 15:07:46 UTC",
+          "updated_at": "2017-03-20 15:01:41 UTC",
+          "series_id": 5,
+          "video_url": "https://cdn-films.economist.com/DW/MAR20/HAPPIER.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Monday, March 20th 2017",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/portrait_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/landscape_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/square_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/feature_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/thumb_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/full_width_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/small_landscape_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/139/small_portrait_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "https://zmtp5.app.goo.gl/S965TFZof16LZtUF3",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-03-20 00:00:00 UTC",
+          "long_title": "Daily Watch this week: Which gender is happier?",
+          "category_list": [
+            "MAR20"
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/139/json",
+          "analytics_tags": {
+            "TwID": "economist-139",
+            "TwVideoName": "which-gender-is-happier",
+            "TwName": "Which gender is happier?",
+            "TwLinkPage": "Which gender is happier?",
+            "CreatedDate": "2017|03|17",
+            "PublicationDate": "2017|03|20"
+          },
+          "video_file": "https://cdn-films.economist.com/DW/MAR20/HAPPIER.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 361,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/361/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/361/thumb_1920X1080.jpg"}},
+              "created_at": "2017-03-17 15:07:47 UTC",
+              "updated_at": "2017-03-17 15:07:47 UTC"
+            },
+            {
+              "id": 360,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/360/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/360/thumb_400X400.jpg"}},
+              "created_at": "2017-03-17 15:07:46 UTC",
+              "updated_at": "2017-03-17 15:07:46 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Ocean",
+      "series_id": 7,
+      "order": 2,
+      "created_at": "2017-02-22 11:07:17 UTC",
+      "updated_at": "2017-02-22 11:08:36 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-22",
+        "TwLinkPage": "Ocean _shelf",
+        "CreatedDate": "2017|02|22"
+      },
+      "items": [
+        {
+          "id": 7,
+          "title": "Ocean",
+          "description": "The Oceans series examines the cutting edge science and radical thinking at work in tackling the crisis facing the world’s seas. This series reflects the passion of those at the frontline of marine biology, and tells the story of the challenge now confronting us as we explore the world’s oceans\r\n",
+          "created_at": "2017-02-21 15:00:06 UTC",
+          "updated_at": "2017-03-20 12:42:16 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/Series_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/portrait_Series_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/landscape_Series_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/square_Series_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/feature_Series_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/thumb_Series_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/full_width_Series_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/small_landscape_Series_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/small_portrait_Series_875X480.jpg"}},
+          "episode_number": null,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-02-22 00:00:00 UTC",
+          "hide_play_button": false,
+          "episode_count": 1,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/7/json",
+          "analytics_tags": {
+            "TwID": "economist-7",
+            "TwName": "Ocean",
+            "TwLinkPage": "Ocean",
+            "CreatedDate": "2017|02|21",
+            "PublicationDate": "2017|02|22"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 319,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/319/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/319/thumb_1920X1080.jpg"}},
+              "created_at": "2017-02-22 11:40:26 UTC",
+              "updated_at": "2017-02-22 11:40:26 UTC"
+            },
+            {
+              "id": 335,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/335/400x400.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/335/thumb_400x400.png"}},
+              "created_at": "2017-02-28 11:10:05 UTC",
+              "updated_at": "2017-02-28 11:10:05 UTC"
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "title": "Saving Corals",
+          "description": "With the world's corals threatened with extinction, scientists are using cutting edge technology to help these planetary treasures make a comeback",
+          "created_at": "2017-02-21 15:05:50 UTC",
+          "updated_at": "2017-03-20 12:37:50 UTC",
+          "series_id": 7,
+          "video_url": "https://cdn-films.economist.com/OCEANS/SavingCoralsR1.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Ocean: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/episode_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/portrait_episode_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/landscape_episode_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/square_episode_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/feature_episode_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/thumb_episode_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/full_width_episode_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/small_landscape_episode_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/119/small_portrait_episode_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "https://zmtp5.app.goo.gl/NMjglqdqMQDel0H73",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-02-22 00:00:00 UTC",
+          "long_title": "Ocean: Saving Corals",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/119/json",
+          "analytics_tags": {
+            "TwID": "economist-119",
+            "TwVideoName": "saving-corals",
+            "TwName": "Saving Corals",
+            "TwLinkPage": "Saving Corals",
+            "CreatedDate": "2017|02|21",
+            "PublicationDate": "2017|02|22"
+          },
+          "video_file": "https://cdn-films.economist.com/OCEANS/SavingCoralsR1.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 316,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/316/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/316/thumb_400X400.jpg"}},
+              "created_at": "2017-02-21 15:12:55 UTC",
+              "updated_at": "2017-02-21 15:12:55 UTC"
+            },
+            {
+              "id": 315,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/315/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/315/thumb_1920X1080.jpg"}},
+              "created_at": "2017-02-21 15:12:37 UTC",
+              "updated_at": "2017-02-21 15:12:37 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Global Compass",
+      "series_id": 2,
+      "order": 3,
+      "created_at": "2016-03-08 17:05:51 UTC",
+      "updated_at": "2017-02-22 11:08:16 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-2",
+        "TwLinkPage": "Global Compass _shelf",
+        "CreatedDate": "2016|03|08"
+      },
+      "items": [
+        {
+          "id": 2,
+          "title": "Global Compass",
+          "description": "Discover the radical thinking and powerful personalities tackling issues of life and death – and everything in between.  Global Compass searches for the key to solving some of the world’s biggest and most challenging problems – and reveals how one powerful idea can become the dynamo for change across the globe. ",
+          "created_at": "2016-03-07 09:27:10 UTC",
+          "updated_at": "2017-02-06 12:15:18 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/Global_compass_cover_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/portrait_Global_compass_cover_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/landscape_Global_compass_cover_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/square_Global_compass_cover_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/feature_Global_compass_cover_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/thumb_Global_compass_cover_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/full_width_Global_compass_cover_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/small_landscape_Global_compass_cover_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/small_portrait_Global_compass_cover_875X480.jpg"}},
+          "episode_number": 2,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 6,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/2/json",
+          "analytics_tags": {
+            "TwID": "economist-2",
+            "TwName": "Global Compass",
+            "TwLinkPage": "Global Compass",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 68,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/68/global-compas.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/68/thumb_global-compas.png"}},
+              "created_at": "2016-10-24 15:17:53 UTC",
+              "updated_at": "2016-10-24 15:17:53 UTC"
+            },
+            {
+              "id": 283,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/283/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/283/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-31 12:54:24 UTC",
+              "updated_at": "2017-01-31 12:54:24 UTC"
+            },
+            {
+              "id": 284,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/284/supported_by_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/284/thumb_supported_by_logo.png"}},
+              "created_at": "2017-01-31 12:54:49 UTC",
+              "updated_at": "2017-01-31 12:54:49 UTC"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Prison: Breaking the cycle",
+          "description": "No money, no support, no prospects.  After years on the inside, what does freedom look like?  Discover why more former prisoners are reoffending than ever before – and what is being done to break the cycle.",
+          "created_at": "2016-03-07 09:50:45 UTC",
+          "updated_at": "2017-02-06 12:14:14 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/prisons.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Global Compass: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/prison_break_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/portrait_prison_break_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/landscape_prison_break_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/square_prison_break_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/feature_prison_break_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/thumb_prison_break_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/full_width_prison_break_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/small_landscape_prison_break_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/11/small_portrait_prison_break_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Global Compass: Prison: Breaking the cycle",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/11/json",
+          "analytics_tags": {
+            "TwID": "economist-11",
+            "TwVideoName": "prison-breaking-the-cycle",
+            "TwName": "Prison: Breaking the cycle",
+            "TwLinkPage": "Prison: Breaking the cycle",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/prisons.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 244,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/244/sponsor_virgin.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/244/thumb_sponsor_virgin.png"}},
+              "created_at": "2017-01-20 11:05:36 UTC",
+              "updated_at": "2017-01-20 11:05:36 UTC"
+            },
+            {
+              "id": 31,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/31/prison-breaking-the-cycle.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/31/thumb_prison-breaking-the-cycle.jpg"}},
+              "created_at": "2016-10-24 14:36:52 UTC",
+              "updated_at": "2016-10-24 14:36:52 UTC"
+            },
+            {
+              "id": 13,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/13/global_episode_prisoners_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/13/thumb_global_episode_prisoners_detail.jpg"}},
+              "created_at": "2016-10-24 14:24:25 UTC",
+              "updated_at": "2016-10-24 14:24:25 UTC"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "title": "24 & ready to die",
+          "description": "Emily is 24 years old and physically healthy. But she wants her doctors to end her life.",
+          "created_at": "2016-04-13 13:03:12 UTC",
+          "updated_at": "2017-02-06 12:14:35 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/righttodie.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "Global Compas: Episode 2",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/24_ready_to_die_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/portrait_24_ready_to_die_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/landscape_24_ready_to_die_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/square_24_ready_to_die_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/feature_24_ready_to_die_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/thumb_24_ready_to_die_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/full_width_24_ready_to_die_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/small_landscape_24_ready_to_die_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/15/small_portrait_24_ready_to_die_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Global Compass: 24 & ready to die",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/15/json",
+          "analytics_tags": {
+            "TwID": "economist-15",
+            "TwVideoName": "24-ready-to-die",
+            "TwName": "24 & ready to die",
+            "TwLinkPage": "24 & ready to die",
+            "CreatedDate": "2016|04|13",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/righttodie.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 245,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/245/sponsor_virgin.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/245/thumb_sponsor_virgin.png"}},
+              "created_at": "2017-01-20 11:06:53 UTC",
+              "updated_at": "2017-01-20 11:06:53 UTC"
+            },
+            {
+              "id": 32,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/32/24-ready-to-die.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/32/thumb_24-ready-to-die.jpg"}},
+              "created_at": "2016-10-24 14:37:16 UTC",
+              "updated_at": "2016-10-24 14:37:16 UTC"
+            },
+            {
+              "id": 14,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/14/global_episode_right_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/14/thumb_global_episode_right_detail.jpg"}},
+              "created_at": "2016-10-24 14:24:44 UTC",
+              "updated_at": "2016-10-24 14:24:44 UTC"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Health without wealth",
+          "description": "Can doctors save lives at the same time as saving money? Pioneering heart surgeon Dr Devi Shetty is one of those on a mission to make world-class treatment available to all.",
+          "created_at": "2016-04-13 13:01:15 UTC",
+          "updated_at": "2017-02-06 12:14:47 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/health.m3u8",
+          "episode_number": 3,
+          "hide_title": false,
+          "subtitle": "Global Compass: Episode 3",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/Health_without_wealth_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/portrait_Health_without_wealth_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/landscape_Health_without_wealth_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/square_Health_without_wealth_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/feature_Health_without_wealth_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/thumb_Health_without_wealth_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/full_width_Health_without_wealth_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/small_landscape_Health_without_wealth_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/14/small_portrait_Health_without_wealth_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Global Compass: Health without wealth",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/14/json",
+          "analytics_tags": {
+            "TwID": "economist-14",
+            "TwVideoName": "health-without-wealth",
+            "TwName": "Health without wealth",
+            "TwLinkPage": "Health without wealth",
+            "CreatedDate": "2016|04|13",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/health.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 246,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/246/sponsor_virgin.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/246/thumb_sponsor_virgin.png"}},
+              "created_at": "2017-01-20 11:07:28 UTC",
+              "updated_at": "2017-01-20 11:07:28 UTC"
+            },
+            {
+              "id": 33,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/33/health-without-wealth.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/33/thumb_health-without-wealth.jpg"}},
+              "created_at": "2016-10-24 14:37:43 UTC",
+              "updated_at": "2016-10-24 14:37:43 UTC"
+            },
+            {
+              "id": 15,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/15/global_episode_health_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/15/thumb_global_episode_health_detail.jpg"}},
+              "created_at": "2016-10-24 14:25:17 UTC",
+              "updated_at": "2016-10-24 14:25:17 UTC"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Solar Frontiers",
+          "description": "Meet the men and women bringing solar power to the people – and fighting to transform our global energy supply.",
+          "created_at": "2016-03-07 09:51:42 UTC",
+          "updated_at": "2017-02-06 12:14:57 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/offthegrid.m3u8",
+          "episode_number": 4,
+          "hide_title": false,
+          "subtitle": "Global Compass: Episode 4",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/Solar_frontiers_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/portrait_Solar_frontiers_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/landscape_Solar_frontiers_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/square_Solar_frontiers_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/feature_Solar_frontiers_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/thumb_Solar_frontiers_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/full_width_Solar_frontiers_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/small_landscape_Solar_frontiers_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/13/small_portrait_Solar_frontiers_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Global Compass: Solar Frontiers",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/13/json",
+          "analytics_tags": {
+            "TwID": "economist-13",
+            "TwVideoName": "solar-frontiers",
+            "TwName": "Solar Frontiers",
+            "TwLinkPage": "Solar Frontiers",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/offthegrid.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 247,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/247/sponsor_virgin.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/247/thumb_sponsor_virgin.png"}},
+              "created_at": "2017-01-20 11:08:00 UTC",
+              "updated_at": "2017-01-20 11:08:00 UTC"
+            },
+            {
+              "id": 34,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/34/solar-frontiers.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/34/thumb_solar-frontiers.jpg"}},
+              "created_at": "2016-10-24 14:38:06 UTC",
+              "updated_at": "2016-10-24 14:38:06 UTC"
+            },
+            {
+              "id": 16,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/16/global_episode_solar_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/16/thumb_global_episode_solar_detail.jpg"}},
+              "created_at": "2016-10-24 14:25:37 UTC",
+              "updated_at": "2016-10-24 14:25:37 UTC"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Drugs: War or Store?",
+          "description": "From Portuguese heroin addicts to Denver drug stores … this is the endgame in the war on drugs and the story of the breaking of a global policy taboo.",
+          "created_at": "2016-03-07 09:51:13 UTC",
+          "updated_at": "2017-02-06 12:15:08 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/drugs.m3u8",
+          "episode_number": 5,
+          "hide_title": false,
+          "subtitle": "Global Compass: Episode 5",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/War_on_drugs_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/portrait_War_on_drugs_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/landscape_War_on_drugs_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/square_War_on_drugs_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/feature_War_on_drugs_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/thumb_War_on_drugs_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/full_width_War_on_drugs_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/small_landscape_War_on_drugs_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/12/small_portrait_War_on_drugs_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Global Compass: Drugs: War or Store?",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/12/json",
+          "analytics_tags": {
+            "TwID": "economist-12",
+            "TwVideoName": "drugs-war-or-store",
+            "TwName": "Drugs: War or Store?",
+            "TwLinkPage": "Drugs: War or Store?",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/drugs.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 248,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/248/sponsor_virgin.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/248/thumb_sponsor_virgin.png"}},
+              "created_at": "2017-01-20 11:08:37 UTC",
+              "updated_at": "2017-01-20 11:08:37 UTC"
+            },
+            {
+              "id": 35,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/35/drugs-war-or-store.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/35/thumb_drugs-war-or-store.jpg"}},
+              "created_at": "2016-10-24 14:38:29 UTC",
+              "updated_at": "2016-10-24 14:38:29 UTC"
+            },
+            {
+              "id": 17,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/17/global_episode_drugs_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/17/thumb_global_episode_drugs_detail.jpg"}},
+              "created_at": "2016-10-24 14:25:53 UTC",
+              "updated_at": "2016-10-24 14:25:53 UTC"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "title": "The Earth Circle",
+          "description": "Making waste a thing of the past, new ideas on the environment are reusing or regenerating raw materials so that they pay dividends for business as well as the planet.",
+          "created_at": "2017-01-31 10:22:42 UTC",
+          "updated_at": "2017-02-06 12:15:18 UTC",
+          "series_id": 2,
+          "video_url": "https://cdn-films.economist.com/GC/SUSTAINABILTY.m3u8",
+          "episode_number": 6,
+          "hide_title": false,
+          "subtitle": "Global Compass: Episode 6",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/portrait_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/landscape_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/square_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/feature_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/thumb_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/full_width_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/small_landscape_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/104/small_portrait_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "https://zmtp5.app.goo.gl/wLaKlALDPhVN42Lv2",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-31 00:00:00 UTC",
+          "long_title": "Global Compass: The Earth Circle",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/104/json",
+          "analytics_tags": {
+            "TwID": "economist-104",
+            "TwVideoName": "the-earth-circle",
+            "TwName": "The Earth Circle",
+            "TwLinkPage": "The Earth Circle",
+            "CreatedDate": "2017|01|31",
+            "PublicationDate": "2017|01|31"
+          },
+          "video_file": "https://cdn-films.economist.com/GC/SUSTAINABILTY.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 282,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/282/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/282/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-31 11:48:59 UTC",
+              "updated_at": "2017-01-31 11:48:59 UTC"
+            },
+            {
+              "id": 281,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/281/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/281/thumb_400X400.jpg"}},
+              "created_at": "2017-01-31 11:48:34 UTC",
+              "updated_at": "2017-01-31 11:48:34 UTC"
+            },
+            {
+              "id": 280,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/280/supported_by_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/280/thumb_supported_by_logo.png"}},
+              "created_at": "2017-01-31 11:48:00 UTC",
+              "updated_at": "2017-01-31 11:48:00 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "The Agenda",
+      "series_id": 6,
+      "order": 4,
+      "created_at": "2017-01-17 12:35:16 UTC",
+      "updated_at": "2017-02-22 11:08:16 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-21",
+        "TwLinkPage": "The Agenda _shelf",
+        "CreatedDate": "2017|01|17"
+      },
+      "items": [
+        {
+          "id": 6,
+          "title": "The Agenda",
+          "description": "THE AGENDA explores the defining questions of our time and seeks out the stories, solutions and the personalities who might just hold the answers.  Discover the mould-breakers experimenting with new ways to approach some of the modern world’s most fundamental issues; find out what happens when bold ideas and real life collide, and meet the leaders whose thoughts and actions are themselves helping to shape the agenda.   Series One of The Agenda: People Power gets to grips with the rise of populism and what lies behind it\r\n",
+          "created_at": "2017-01-16 12:34:22 UTC",
+          "updated_at": "2017-02-01 14:35:43 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/agenda_series_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/portrait_agenda_series_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/landscape_agenda_series_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/square_agenda_series_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/feature_agenda_series_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/thumb_agenda_series_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/full_width_agenda_series_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/small_landscape_agenda_series_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/small_portrait_agenda_series_875X480.jpg"}},
+          "episode_number": 3,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 6,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/6/json",
+          "analytics_tags": {
+            "TwID": "economist-6",
+            "TwName": "The Agenda",
+            "TwLinkPage": "The Agenda",
+            "CreatedDate": "2017|01|16",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 207,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/207/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/207/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-16 12:36:43 UTC",
+              "updated_at": "2017-01-16 12:36:43 UTC"
+            },
+            {
+              "id": 220,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/220/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/220/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-17 16:17:43 UTC",
+              "updated_at": "2017-01-17 16:17:43 UTC"
+            },
+            {
+              "id": 226,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/226/Agenda.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/226/thumb_Agenda.png"}},
+              "created_at": "2017-01-18 10:30:51 UTC",
+              "updated_at": "2017-01-18 10:30:51 UTC"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "title": "People Power",
+          "description": "It’s the force that is reshaping our world—from the streets of Turin to Silicon Valley. With frustrations rising and the old order apparently crumbling who really has the answers?",
+          "created_at": "2017-01-16 18:16:12 UTC",
+          "updated_at": "2017-02-01 13:17:05 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/agendaR1.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/People_power_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/portrait_People_power_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/landscape_People_power_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/square_People_power_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/feature_People_power_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/thumb_People_power_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/full_width_People_power_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/small_landscape_People_power_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/85/small_portrait_People_power_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "long_title": "The Agenda: People Power",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/85/json",
+          "analytics_tags": {
+            "TwID": "economist-85",
+            "TwVideoName": "people-power",
+            "TwName": "People Power",
+            "TwLinkPage": "People Power",
+            "CreatedDate": "2017|01|16",
+            "PublicationDate": "2017|01|16"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/agendaR1.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 222,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/222/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/222/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-17 16:18:30 UTC",
+              "updated_at": "2017-01-17 16:18:30 UTC"
+            },
+            {
+              "id": 211,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/211/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/211/thumb_400X400.jpg"}},
+              "created_at": "2017-01-16 18:17:26 UTC",
+              "updated_at": "2017-01-16 18:17:26 UTC"
+            },
+            {
+              "id": 210,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/210/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/210/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-16 18:16:51 UTC",
+              "updated_at": "2017-01-16 18:16:51 UTC"
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "title": "Minouche Shafik on education",
+          "description": "Minouche Shafik, deputy governor of the Bank of England and the next director of the London School of Economics, discusses the role of education in a world coloured by populism",
+          "created_at": "2017-01-17 17:37:10 UTC",
+          "updated_at": "2017-02-01 14:34:21 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/MINOUCHESHAFIK.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 2",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/875X480_-_no_logo.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/portrait_875X480_-_no_logo.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/landscape_875X480_-_no_logo.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/square_875X480_-_no_logo.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/feature_875X480_-_no_logo.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/thumb_875X480_-_no_logo.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/full_width_875X480_-_no_logo.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/small_landscape_875X480_-_no_logo.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/88/small_portrait_875X480_-_no_logo.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-17 00:00:00 UTC",
+          "long_title": "The Agenda: Minouche Shafik on education",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/88/json",
+          "analytics_tags": {
+            "TwID": "economist-88",
+            "TwVideoName": "minouche-shafik-on-education",
+            "TwName": "Minouche Shafik on education",
+            "TwLinkPage": "Minouche Shafik on education",
+            "CreatedDate": "2017|01|17",
+            "PublicationDate": "2017|01|17"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/MINOUCHESHAFIK.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 228,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/228/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/228/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-18 17:46:14 UTC",
+              "updated_at": "2017-01-18 17:46:14 UTC"
+            },
+            {
+              "id": 225,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/225/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/225/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-17 17:42:15 UTC",
+              "updated_at": "2017-01-17 17:42:15 UTC"
+            },
+            {
+              "id": 224,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/224/400X400_copy.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/224/thumb_400X400_copy.jpg"}},
+              "created_at": "2017-01-17 17:41:52 UTC",
+              "updated_at": "2017-01-17 17:41:52 UTC"
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "title": "Arianna Huffington on the media",
+          "description": "Arianna Huffington, founder of The Huffington Post, shares her views on the role of journalism in a political world transformed by populism",
+          "created_at": "2017-01-18 17:43:42 UTC",
+          "updated_at": "2017-02-01 14:34:47 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/ARIANNA.m3u8",
+          "episode_number": 3,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 3",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/875X480_-_no_logo.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/portrait_875X480_-_no_logo.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/landscape_875X480_-_no_logo.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/square_875X480_-_no_logo.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/feature_875X480_-_no_logo.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/thumb_875X480_-_no_logo.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/full_width_875X480_-_no_logo.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/small_landscape_875X480_-_no_logo.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/89/small_portrait_875X480_-_no_logo.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-18 00:00:00 UTC",
+          "long_title": "The Agenda: Arianna Huffington on the media",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/89/json",
+          "analytics_tags": {
+            "TwID": "economist-89",
+            "TwVideoName": "arianna-huffington-on-the-media",
+            "TwName": "Arianna Huffington on the media",
+            "TwLinkPage": "Arianna Huffington on the media",
+            "CreatedDate": "2017|01|18",
+            "PublicationDate": "2017|01|18"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/ARIANNA.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 230,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/230/arianna1920x1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/230/thumb_arianna1920x1080.jpg"}},
+              "created_at": "2017-01-18 17:50:54 UTC",
+              "updated_at": "2017-01-18 17:50:54 UTC"
+            },
+            {
+              "id": 229,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/229/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/229/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-18 17:47:26 UTC",
+              "updated_at": "2017-01-18 17:47:26 UTC"
+            },
+            {
+              "id": 227,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/227/400X400_copy.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/227/thumb_400X400_copy.jpg"}},
+              "created_at": "2017-01-18 17:44:16 UTC",
+              "updated_at": "2017-01-18 17:44:16 UTC"
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "title": "Christine Lagarde on globalisation",
+          "description": "From the elite bubble of the World Economic Forum in Davos, Christine Lagarde, managing director of the International Monetary Fund, shares her views on the future of globalisation",
+          "created_at": "2017-01-19 17:16:10 UTC",
+          "updated_at": "2017-02-01 14:35:06 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/CHRISTINE.m3u8",
+          "episode_number": 4,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 4",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/portrait_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/landscape_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/square_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/feature_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/thumb_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/full_width_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/small_landscape_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/92/small_portrait_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-19 00:00:00 UTC",
+          "long_title": "The Agenda: Christine Lagarde on globalisation",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/92/json",
+          "analytics_tags": {
+            "TwID": "economist-92",
+            "TwVideoName": "christine-lagarde-on-globalisation",
+            "TwName": "Christine Lagarde on globalisation",
+            "TwLinkPage": "Christine Lagarde on globalisation",
+            "CreatedDate": "2017|01|19",
+            "PublicationDate": "2017|01|19"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/CHRISTINE.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 237,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/237/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/237/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-19 17:21:51 UTC",
+              "updated_at": "2017-01-19 17:21:51 UTC"
+            },
+            {
+              "id": 236,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/236/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/236/thumb_400X400.jpg"}},
+              "created_at": "2017-01-19 17:21:25 UTC",
+              "updated_at": "2017-01-19 17:21:25 UTC"
+            },
+            {
+              "id": 235,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/235/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/235/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-19 17:21:04 UTC",
+              "updated_at": "2017-01-19 17:21:04 UTC"
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "title": "Winnie Byanyima on inequality",
+          "description": "Winnie Byanyima, the executive director of Oxfam International, discusses the world economy's failure to tackle the extremes of inequality\r\n",
+          "created_at": "2017-01-20 19:20:24 UTC",
+          "updated_at": "2017-02-01 14:35:24 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/WINNIE_V4_Audio_Pass.m3u8",
+          "episode_number": 5,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 5",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/875x480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/portrait_875x480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/landscape_875x480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/square_875x480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/feature_875x480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/thumb_875x480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/full_width_875x480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/small_landscape_875x480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/94/small_portrait_875x480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "The Agenda: Winnie Byanyima on inequality",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/94/json",
+          "analytics_tags": {
+            "TwID": "economist-94",
+            "TwVideoName": "winnie-byanyima-on-inequality",
+            "TwName": "Winnie Byanyima on inequality",
+            "TwLinkPage": "Winnie Byanyima on inequality",
+            "CreatedDate": "2017|01|20",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/WINNIE_V4_Audio_Pass.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 262,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/262/1920x1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/262/thumb_1920x1080.jpg"}},
+              "created_at": "2017-01-20 19:32:59 UTC",
+              "updated_at": "2017-01-20 19:32:59 UTC"
+            },
+            {
+              "id": 261,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/261/400x400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/261/thumb_400x400.jpg"}},
+              "created_at": "2017-01-20 19:32:16 UTC",
+              "updated_at": "2017-01-20 19:32:16 UTC"
+            },
+            {
+              "id": 260,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/260/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/260/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-20 19:31:39 UTC",
+              "updated_at": "2017-01-20 19:31:39 UTC"
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "title": "Margrethe Vestager on Europe",
+          "description": "Margrethe Vestager, European Commissioner for Competition, shares her views on an isolated Brussels at the centre of a Europe in the midst of upheaval ",
+          "created_at": "2017-01-23 16:18:38 UTC",
+          "updated_at": "2017-02-01 14:35:43 UTC",
+          "series_id": 6,
+          "video_url": "https://cdn-films.economist.com/AG/MARGRETHE.m3u8",
+          "episode_number": 6,
+          "hide_title": false,
+          "subtitle": "The Agenda: Episode 6",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/portrait_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/landscape_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/square_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/feature_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/thumb_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/full_width_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/small_landscape_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/97/small_portrait_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-23 00:00:00 UTC",
+          "long_title": "The Agenda: Margrethe Vestager on Europe",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/97/json",
+          "analytics_tags": {
+            "TwID": "economist-97",
+            "TwVideoName": "margrethe-vestager-on-europe",
+            "TwName": "Margrethe Vestager on Europe",
+            "TwLinkPage": "Margrethe Vestager on Europe",
+            "CreatedDate": "2017|01|23",
+            "PublicationDate": "2017|01|23"
+          },
+          "video_file": "https://cdn-films.economist.com/AG/MARGRETHE.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 269,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/269/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/269/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-23 16:19:50 UTC",
+              "updated_at": "2017-01-23 16:19:50 UTC"
+            },
+            {
+              "id": 268,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/268/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/268/thumb_400X400.jpg"}},
+              "created_at": "2017-01-23 16:19:19 UTC",
+              "updated_at": "2017-01-23 16:19:19 UTC"
+            },
+            {
+              "id": 267,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/267/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/267/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-23 16:19:02 UTC",
+              "updated_at": "2017-01-23 16:19:02 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Disrupters",
+      "series_id": 4,
+      "order": 5,
+      "created_at": "2016-06-02 10:52:39 UTC",
+      "updated_at": "2017-02-22 11:08:10 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-16",
+        "TwLinkPage": "The Disrupters _shelf",
+        "CreatedDate": "2016|06|02"
+      },
+      "items": [
+        {
+          "id": 4,
+          "title": "The Disrupters",
+          "description": "The digital revolution is driving change on an unprecedented scale.  Confronted by wave after wave of innovation, the pressure to adapt has never been greater.  But where there’s threat there’s also opportunity.  Disrupters takes you behind the scenes of some of the most successful start-ups on the planet – and reveals how their more established rivals are fighting back",
+          "created_at": "2016-05-04 21:30:25 UTC",
+          "updated_at": "2017-03-06 14:56:44 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/Disrupters_Series_Thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/portrait_Disrupters_Series_Thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/landscape_Disrupters_Series_Thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/square_Disrupters_Series_Thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/feature_Disrupters_Series_Thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/thumb_Disrupters_Series_Thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/full_width_Disrupters_Series_Thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/small_landscape_Disrupters_Series_Thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/small_portrait_Disrupters_Series_Thumbnail_875X480.jpg"}},
+          "episode_number": 4,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 3,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/4/json",
+          "analytics_tags": {
+            "TwID": "economist-4",
+            "TwName": "The Disrupters",
+            "TwLinkPage": "The Disrupters",
+            "CreatedDate": "2016|05|04",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 41,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/41/bg_disrupters_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/41/thumb_bg_disrupters_series.jpg"}},
+              "created_at": "2016-10-24 14:49:07 UTC",
+              "updated_at": "2016-10-24 14:49:07 UTC"
+            },
+            {
+              "id": 70,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/70/disrupters_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/70/thumb_disrupters_logo.png"}},
+              "created_at": "2016-10-24 15:18:29 UTC",
+              "updated_at": "2016-10-24 15:18:29 UTC"
+            },
+            {
+              "id": 251,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/251/sponsors_ey.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/251/thumb_sponsors_ey.png"}},
+              "created_at": "2017-01-20 11:21:43 UTC",
+              "updated_at": "2017-01-20 11:21:43 UTC"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Gear Shift",
+          "description": "Ride-hailing apps such as Uber, Ola and Lyft are not only challenging taxi drivers around the world, they are disrupting the whole car industry as people increasingly ask ‘why drive when I can ride?’",
+          "created_at": "2016-05-04 21:32:44 UTC",
+          "updated_at": "2017-03-06 14:56:44 UTC",
+          "series_id": 4,
+          "video_url": "https://cdn-films.economist.com/DS/auto.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Disrupters: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/Gear_shift_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/portrait_Gear_shift_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/landscape_Gear_shift_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/square_Gear_shift_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/feature_Gear_shift_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/thumb_Gear_shift_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/full_width_Gear_shift_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/small_landscape_Gear_shift_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/18/small_portrait_Gear_shift_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-19 00:00:00 UTC",
+          "long_title": "The Disrupters: Gear Shift",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/18/json",
+          "analytics_tags": {
+            "TwID": "economist-18",
+            "TwVideoName": "gear-shift",
+            "TwName": "Gear Shift",
+            "TwLinkPage": "Gear Shift",
+            "CreatedDate": "2016|05|04",
+            "PublicationDate": "2017|01|19"
+          },
+          "video_file": "https://cdn-films.economist.com/DS/auto.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 252,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/252/sponsors_ey.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/252/thumb_sponsors_ey.png"}},
+              "created_at": "2017-01-20 11:22:20 UTC",
+              "updated_at": "2017-01-20 11:22:20 UTC"
+            },
+            {
+              "id": 45,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/45/bg_disrupters_episode_gear.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/45/thumb_bg_disrupters_episode_gear.jpg"}},
+              "created_at": "2016-10-24 14:54:55 UTC",
+              "updated_at": "2016-10-24 14:54:55 UTC"
+            },
+            {
+              "id": 22,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/22/disrupters_episode_gear_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/22/thumb_disrupters_episode_gear_detail.jpg"}},
+              "created_at": "2016-10-24 14:29:30 UTC",
+              "updated_at": "2016-10-24 14:29:30 UTC"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "title": "The Music Factory",
+          "description": "The music industry has faced decades of upheaval. But one thing has been slow to change - the business model.  Radiohead, Moby and social media star Jacob Whitesides reveal how artists and tech startups are now using the digital revolution to rewrite the rules.musicians to find fans and manage their money—without having to rely on a record deal. ",
+          "created_at": "2016-05-04 21:35:41 UTC",
+          "updated_at": "2017-02-01 16:58:44 UTC",
+          "series_id": 4,
+          "video_url": "https://cdn-films.economist.com/DS/musicR2.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "Disrupters: Episode 2",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/music_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/portrait_music_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/landscape_music_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/square_music_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/feature_music_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/thumb_music_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/full_width_music_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/small_landscape_music_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/19/small_portrait_music_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "The Disrupters: The Music Factory",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/19/json",
+          "analytics_tags": {
+            "TwID": "economist-19",
+            "TwVideoName": "the-music-factory",
+            "TwName": "The Music Factory",
+            "TwLinkPage": "The Music Factory",
+            "CreatedDate": "2016|05|04",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/DS/musicR2.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 253,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/253/sponsors_ey.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/253/thumb_sponsors_ey.png"}},
+              "created_at": "2017-01-20 11:23:07 UTC",
+              "updated_at": "2017-01-20 11:23:07 UTC"
+            },
+            {
+              "id": 40,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/40/bg_disrupters_episode_music.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/40/thumb_bg_disrupters_episode_music.jpg"}},
+              "created_at": "2016-10-24 14:48:39 UTC",
+              "updated_at": "2016-10-24 14:48:39 UTC"
+            },
+            {
+              "id": 23,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/23/disrupters_episode_music_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/23/thumb_disrupters_episode_music_detail.jpg"}},
+              "created_at": "2016-10-24 14:29:50 UTC",
+              "updated_at": "2016-10-24 14:29:50 UTC"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "title": "The New Power Generation",
+          "description": "In just eight years, the value of the world’s biggest power companies has halved.  Pressure to reduce carbon emissions and the growth of alternative energy methods has left industry giants scrambling to redefine their role in this new high-tech energy world",
+          "created_at": "2016-09-19 10:53:49 UTC",
+          "updated_at": "2017-03-06 14:56:12 UTC",
+          "series_id": 4,
+          "video_url": "https://cdn-films.economist.com/DS/EnergyR1.m3u8",
+          "episode_number": 3,
+          "hide_title": false,
+          "subtitle": "Disrupters: Episode 3",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/Power_gen_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/portrait_Power_gen_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/landscape_Power_gen_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/square_Power_gen_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/feature_Power_gen_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/thumb_Power_gen_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/full_width_Power_gen_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/small_landscape_Power_gen_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/24/small_portrait_Power_gen_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-21 00:00:00 UTC",
+          "long_title": "The Disrupters: The New Power Generation",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/24/json",
+          "analytics_tags": {
+            "TwID": "economist-24",
+            "TwVideoName": "the-new-power-generation",
+            "TwName": "The New Power Generation",
+            "TwLinkPage": "The New Power Generation",
+            "CreatedDate": "2016|09|19",
+            "PublicationDate": "2017|01|21"
+          },
+          "video_file": "https://cdn-films.economist.com/DS/EnergyR1.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 254,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/254/sponsors_ey.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/254/thumb_sponsors_ey.png"}},
+              "created_at": "2017-01-20 11:23:59 UTC",
+              "updated_at": "2017-01-20 11:23:59 UTC"
+            },
+            {
+              "id": 5,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/5/disrupters_episode_energy_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/5/thumb_disrupters_episode_energy_detail.jpg"}},
+              "created_at": "2016-10-24 13:27:26 UTC",
+              "updated_at": "2016-10-24 13:27:26 UTC"
+            },
+            {
+              "id": 4,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/4/bg_disrupters_episode_energy.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/4/thumb_bg_disrupters_episode_energy.jpg"}},
+              "created_at": "2016-10-24 13:27:26 UTC",
+              "updated_at": "2016-10-24 13:27:26 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Passport",
+      "series_id": 3,
+      "order": 6,
+      "created_at": "2016-05-04 20:12:39 UTC",
+      "updated_at": "2017-02-22 11:08:03 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-13",
+        "TwLinkPage": "Passport _shelf",
+        "CreatedDate": "2016|05|04"
+      },
+      "items": [
+        {
+          "id": 3,
+          "title": "Passport",
+          "description": "A travel series for the intellectually and culturally curious, Passport explores some of the most exciting city destinations in the world.   Follow at the shoulder of three colourful locals as they take you on a unique tour of their city, showing you the hidden spots they think everyone should see – if only you know where to look. ",
+          "created_at": "2016-03-07 09:48:39 UTC",
+          "updated_at": "2017-03-06 14:59:02 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/seriesthumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/portrait_seriesthumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/landscape_seriesthumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/square_seriesthumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/feature_seriesthumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/thumb_seriesthumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/full_width_seriesthumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/small_landscape_seriesthumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/small_portrait_seriesthumbnail_875X480.jpg"}},
+          "episode_number": 5,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 5,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/3/json",
+          "analytics_tags": {
+            "TwID": "economist-3",
+            "TwName": "Passport",
+            "TwLinkPage": "Passport",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 44,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/44/bg_passport_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/44/thumb_bg_passport_series.jpg"}},
+              "created_at": "2016-10-24 14:50:08 UTC",
+              "updated_at": "2016-10-24 14:50:08 UTC"
+            },
+            {
+              "id": 69,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/69/passport_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/69/thumb_passport_logo.png"}},
+              "created_at": "2016-10-24 15:18:12 UTC",
+              "updated_at": "2016-10-24 15:18:12 UTC"
+            },
+            {
+              "id": 249,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/249/sponsors_turkish.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/249/thumb_sponsors_turkish.png"}},
+              "created_at": "2017-01-20 11:18:23 UTC",
+              "updated_at": "2017-01-20 11:18:23 UTC"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Miami",
+          "description": "Miami, the city where happy hour is a lifestyle. Passport: Miami shows you a side to the city that only the locals know. Join a Cuban singer, a beach-runner and a drag queen as they open the doors to their shining, fabulous, soulful city.\r\n",
+          "created_at": "2016-03-07 09:49:09 UTC",
+          "updated_at": "2017-03-06 14:59:02 UTC",
+          "series_id": 3,
+          "video_url": "https://cdn-films.economist.com/PP/miami.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Passport: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/miami_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/portrait_miami_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/landscape_miami_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/square_miami_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/feature_miami_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/thumb_miami_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/full_width_miami_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/small_landscape_miami_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/8/small_portrait_miami_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-02-01 00:00:00 UTC",
+          "long_title": "Passport: Miami",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/8/json",
+          "analytics_tags": {
+            "TwID": "economist-8",
+            "TwVideoName": "miami",
+            "TwName": "Miami",
+            "TwLinkPage": "Miami",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|02|01"
+          },
+          "video_file": "https://cdn-films.economist.com/PP/miami.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 36,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/36/passport-miami.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/36/thumb_passport-miami.jpg"}},
+              "created_at": "2016-10-24 14:45:52 UTC",
+              "updated_at": "2016-10-24 14:45:52 UTC"
+            },
+            {
+              "id": 18,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/18/passport_episode_miami_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/18/thumb_passport_episode_miami_detail.jpg"}},
+              "created_at": "2016-10-24 14:26:18 UTC",
+              "updated_at": "2016-10-24 14:26:18 UTC"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Colombo",
+          "description": "The capital of Sri Lanka is forging a new identity. Once this island nation was known for its long-running civil war, but now a fashion designer, a celebrity chef and an expat will show you why its capital has become the fastest growing city destination in the world.  See what they love about this remarkable place.",
+          "created_at": "2016-03-07 09:50:00 UTC",
+          "updated_at": "2017-03-06 14:58:53 UTC",
+          "series_id": 3,
+          "video_url": "https://cdn-films.economist.com/PP/colombo.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "Passport: Episode 2",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/Colombo_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/portrait_Colombo_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/landscape_Colombo_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/square_Colombo_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/feature_Colombo_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/thumb_Colombo_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/full_width_Colombo_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/small_landscape_Colombo_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/10/small_portrait_Colombo_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Passport: Colombo",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/10/json",
+          "analytics_tags": {
+            "TwID": "economist-10",
+            "TwVideoName": "colombo",
+            "TwName": "Colombo",
+            "TwLinkPage": "Colombo",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/PP/colombo.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 250,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/250/sponsors_turkish.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/250/thumb_sponsors_turkish.png"}},
+              "created_at": "2017-01-20 11:19:39 UTC",
+              "updated_at": "2017-01-20 11:19:39 UTC"
+            },
+            {
+              "id": 37,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/37/passport-colombo.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/37/thumb_passport-colombo.jpg"}},
+              "created_at": "2016-10-24 14:46:15 UTC",
+              "updated_at": "2016-10-24 14:46:15 UTC"
+            },
+            {
+              "id": 19,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/19/passport_episode_colombo_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/19/thumb_passport_episode_colombo_detail.jpg"}},
+              "created_at": "2016-10-24 14:26:42 UTC",
+              "updated_at": "2016-10-24 14:26:42 UTC"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Buenos Aires",
+          "description": "Slabs of beef, glasses of Malbec and polo—welcome to Buenos Aires.  Tour Argentina's capital with a street artist, a dancer and a polo player.  From the world’s biggest street mural to a traditional Argentine street festival, they reveal how this 21st century city is steeped in the history of the country",
+          "created_at": "2016-06-14 10:09:01 UTC",
+          "updated_at": "2017-02-01 17:05:34 UTC",
+          "series_id": 3,
+          "video_url": "https://cdn-films.economist.com/PP/BuenosR1.m3u8",
+          "episode_number": 3,
+          "hide_title": false,
+          "subtitle": "Passport: Episode 3",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/Buenos_aires_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/portrait_Buenos_aires_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/landscape_Buenos_aires_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/square_Buenos_aires_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/feature_Buenos_aires_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/thumb_Buenos_aires_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/full_width_Buenos_aires_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/small_landscape_Buenos_aires_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/22/small_portrait_Buenos_aires_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-02-01 00:00:00 UTC",
+          "long_title": "Passport: Buenos Aires",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/22/json",
+          "analytics_tags": {
+            "TwID": "economist-22",
+            "TwVideoName": "buenos-aires",
+            "TwName": "Buenos Aires",
+            "TwLinkPage": "Buenos Aires",
+            "CreatedDate": "2016|06|14",
+            "PublicationDate": "2017|02|01"
+          },
+          "video_file": "https://cdn-films.economist.com/PP/BuenosR1.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 47,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/47/bg_passport_episode_ba.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/47/thumb_bg_passport_episode_ba.jpg"}},
+              "created_at": "2016-10-24 14:55:46 UTC",
+              "updated_at": "2016-10-24 14:55:46 UTC"
+            },
+            {
+              "id": 20,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/20/passport_episode_ba_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/20/thumb_passport_episode_ba_detail.jpg"}},
+              "created_at": "2016-10-24 14:27:03 UTC",
+              "updated_at": "2016-10-24 14:27:03 UTC"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Osaka",
+          "description": "Japan’s second city has become the country's fastest growing tourist hotspot. Famed for its food, Osaka stands apart from other cities in Japan. A sushi chef, a poet and a tattoo artist show us why their city is the top choice for the culturally curious visitor.",
+          "created_at": "2016-09-29 14:26:34 UTC",
+          "updated_at": "2017-03-06 14:58:36 UTC",
+          "series_id": 3,
+          "video_url": "https://cdn-films.economist.com/PP/osakaR2.m3u8",
+          "episode_number": 4,
+          "hide_title": false,
+          "subtitle": "Passport: Episode 4",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/Osaka_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/portrait_Osaka_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/landscape_Osaka_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/square_Osaka_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/feature_Osaka_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/thumb_Osaka_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/full_width_Osaka_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/small_landscape_Osaka_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/25/small_portrait_Osaka_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-02-01 00:00:00 UTC",
+          "long_title": "Passport: Osaka",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/25/json",
+          "analytics_tags": {
+            "TwID": "economist-25",
+            "TwVideoName": "osaka",
+            "TwName": "Osaka",
+            "TwLinkPage": "Osaka",
+            "CreatedDate": "2016|09|29",
+            "PublicationDate": "2017|02|01"
+          },
+          "video_file": "https://cdn-films.economist.com/PP/osakaR2.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 25,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/25/bg_passport_episode_osaka.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/25/thumb_bg_passport_episode_osaka.jpg"}},
+              "created_at": "2016-10-24 14:32:00 UTC",
+              "updated_at": "2016-10-24 14:32:00 UTC"
+            },
+            {
+              "id": 24,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/24/passport_episode_osaka_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/24/thumb_passport_episode_osaka_detail.jpg"}},
+              "created_at": "2016-10-24 14:31:17 UTC",
+              "updated_at": "2016-10-24 14:31:17 UTC"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "title": "London",
+          "description": "London is the most visited city destination in the world, but that makes discovering its secrets all the more rewarding.  A cabbie, a hipster and the head of one of London’s most exclusive hotels reveal some of the city’s most unique experiences.",
+          "created_at": "2016-10-21 10:42:55 UTC",
+          "updated_at": "2017-03-06 14:58:28 UTC",
+          "series_id": 3,
+          "video_url": "https://cdn-films.economist.com/PP/london.m3u8",
+          "episode_number": 5,
+          "hide_title": false,
+          "subtitle": "Passport: Episode 5",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/london_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/portrait_london_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/landscape_london_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/square_london_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/feature_london_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/thumb_london_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/full_width_london_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/small_landscape_london_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/26/small_portrait_london_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-02-01 00:00:00 UTC",
+          "long_title": "Passport: London",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/26/json",
+          "analytics_tags": {
+            "TwID": "economist-26",
+            "TwVideoName": "london",
+            "TwName": "London",
+            "TwLinkPage": "London",
+            "CreatedDate": "2016|10|21",
+            "PublicationDate": "2017|02|01"
+          },
+          "video_file": "https://cdn-films.economist.com/PP/london.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 3,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/3/passport_episode_london_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/3/thumb_passport_episode_london_detail.jpg"}},
+              "created_at": "2016-10-24 11:54:52 UTC",
+              "updated_at": "2016-10-24 11:54:52 UTC"
+            },
+            {
+              "id": 2,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/2/bg_android_passport_episode_london.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/2/thumb_bg_android_passport_episode_london.jpg"}},
+              "created_at": "2016-10-24 11:54:51 UTC",
+              "updated_at": "2016-10-24 11:54:51 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Future Works",
+      "series_id": 1,
+      "order": 7,
+      "created_at": "2016-03-07 11:19:05 UTC",
+      "updated_at": "2017-02-22 11:08:03 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "series",
+      "analytics_tags": {
+        "TwID": "economist-1",
+        "TwLinkPage": "Future Works _shelf",
+        "CreatedDate": "2016|03|07"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Future Works",
+          "description": "From bionic engineers to E-Sports superstars … meet the people doing tomorrow’s jobs today.  As new technology transforms the workplace, FutureWorks looks beyond the gadgets to reveal what its like to work in the emerging industries of the future.\r\n",
+          "created_at": "2016-03-07 09:26:34 UTC",
+          "updated_at": "2017-03-06 15:10:44 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/future_works_series_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/portrait_future_works_series_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/landscape_future_works_series_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/square_future_works_series_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/feature_future_works_series_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/thumb_future_works_series_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/full_width_future_works_series_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/small_landscape_future_works_series_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/small_portrait_future_works_series_thumbnail_875X480.jpg"}},
+          "episode_number": 6,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 5,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/1/json",
+          "analytics_tags": {
+            "TwID": "economist-1",
+            "TwName": "Future Works",
+            "TwLinkPage": "Future Works",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 42,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/42/bg_future_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/42/thumb_bg_future_series.jpg"}},
+              "created_at": "2016-10-24 14:49:23 UTC",
+              "updated_at": "2016-10-24 14:49:23 UTC"
+            },
+            {
+              "id": 67,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/67/future-works.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/67/thumb_future-works.png"}},
+              "created_at": "2016-10-24 15:17:31 UTC",
+              "updated_at": "2016-10-24 15:17:31 UTC"
+            },
+            {
+              "id": 234,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/234/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/234/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-19 15:37:44 UTC",
+              "updated_at": "2017-01-19 15:37:44 UTC"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Drone Rangers",
+          "description": "They're the pilots of tomorrow - and they never leave the ground.  From the African savannah to Californian building sites, meet the men and women pioneering the use of drones in conservation, disaster recovery and construction",
+          "created_at": "2016-03-07 09:46:43 UTC",
+          "updated_at": "2017-03-06 15:09:37 UTC",
+          "series_id": 1,
+          "video_url": "https://cdn-films.economist.com/FW/drones.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Future Works: Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/Drone_thumbail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/portrait_Drone_thumbail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/landscape_Drone_thumbail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/square_Drone_thumbail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/feature_Drone_thumbail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/thumb_Drone_thumbail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/full_width_Drone_thumbail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/small_landscape_Drone_thumbail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/5/small_portrait_Drone_thumbail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2016-12-06 00:00:00 UTC",
+          "long_title": "Future Works: Drone Rangers",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/5/json",
+          "analytics_tags": {
+            "TwID": "economist-5",
+            "TwVideoName": "drone-rangers",
+            "TwName": "Drone Rangers",
+            "TwLinkPage": "Drone Rangers",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2016|12|06"
+          },
+          "video_file": "https://cdn-films.economist.com/FW/drones.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 233,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/233/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/233/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-19 15:36:20 UTC",
+              "updated_at": "2017-01-19 15:36:20 UTC"
+            },
+            {
+              "id": 26,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/26/drones.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/26/thumb_drones.jpg"}},
+              "created_at": "2016-10-24 14:33:41 UTC",
+              "updated_at": "2016-10-24 14:33:41 UTC"
+            },
+            {
+              "id": 8,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/8/future_episode_drones_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/8/thumb_future_episode_drones_detail.jpg"}},
+              "created_at": "2016-10-24 13:30:31 UTC",
+              "updated_at": "2016-10-24 13:30:31 UTC"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "E-Sports Superstars",
+          "description": "Gaming is the new sport and these are its stars - professional computer gamers whose global exploits are tracked by millions of young, connected fans.  Are they the athletes of the future or geeks who got lucky? ",
+          "created_at": "2016-03-07 09:46:04 UTC",
+          "updated_at": "2017-03-06 15:08:45 UTC",
+          "series_id": 1,
+          "video_url": "https://cdn-films.economist.com/FW/egamers.m3u8",
+          "episode_number": 2,
+          "hide_title": false,
+          "subtitle": "Future Works: Episode 2",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/E-sports_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/portrait_E-sports_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/landscape_E-sports_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/square_E-sports_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/feature_E-sports_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/thumb_E-sports_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/full_width_E-sports_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/small_landscape_E-sports_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/4/small_portrait_E-sports_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Future Works: E-Sports Superstars",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/4/json",
+          "analytics_tags": {
+            "TwID": "economist-4",
+            "TwVideoName": "e-sports-superstars",
+            "TwName": "E-Sports Superstars",
+            "TwLinkPage": "E-Sports Superstars",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/FW/egamers.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 238,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/238/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/238/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-20 10:57:23 UTC",
+              "updated_at": "2017-01-20 10:57:23 UTC"
+            },
+            {
+              "id": 27,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/27/e-gamers.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/27/thumb_e-gamers.jpg"}},
+              "created_at": "2016-10-24 14:34:10 UTC",
+              "updated_at": "2016-10-24 14:34:10 UTC"
+            },
+            {
+              "id": 9,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/9/future_episode_egamers_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/9/thumb_future_episode_egamers_detail.jpg"}},
+              "created_at": "2016-10-24 13:38:10 UTC",
+              "updated_at": "2016-10-24 13:38:10 UTC"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Space Invaders",
+          "description": "There’s a new space race. In the Mojave desert, Space Invaders follows entrepreneurs and young dreamers as they scramble to get out into the cosmos.  They’re reaching for the stars–and they’re barely out of school",
+          "created_at": "2016-03-07 09:47:52 UTC",
+          "updated_at": "2017-03-06 15:10:08 UTC",
+          "series_id": 1,
+          "video_url": "https://cdn-films.economist.com/FW/index.m3u8",
+          "episode_number": 3,
+          "hide_title": false,
+          "subtitle": "Future Works: Episode 3",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/Space_invaders_thumbnails_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/portrait_Space_invaders_thumbnails_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/landscape_Space_invaders_thumbnails_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/square_Space_invaders_thumbnails_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/feature_Space_invaders_thumbnails_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/thumb_Space_invaders_thumbnails_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/full_width_Space_invaders_thumbnails_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/small_landscape_Space_invaders_thumbnails_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/7/small_portrait_Space_invaders_thumbnails_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Future Works: Space Invaders",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/7/json",
+          "analytics_tags": {
+            "TwID": "economist-7",
+            "TwVideoName": "space-invaders",
+            "TwName": "Space Invaders",
+            "TwLinkPage": "Space Invaders",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/FW/index.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 240,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/240/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/240/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-20 11:00:25 UTC",
+              "updated_at": "2017-01-20 11:00:25 UTC"
+            },
+            {
+              "id": 28,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/28/space.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/28/thumb_space.jpg"}},
+              "created_at": "2016-10-24 14:34:41 UTC",
+              "updated_at": "2016-10-24 14:34:41 UTC"
+            },
+            {
+              "id": 10,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/10/future_episode_space_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/10/thumb_future_episode_space_detail.jpg"}},
+              "created_at": "2016-10-24 13:38:34 UTC",
+              "updated_at": "2016-10-24 13:38:34 UTC"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Meat makers",
+          "description": "They think they’ve found a better way to feed the planet.  Meet the front-runners in the race to create man-made meat.  They’re hoping to revolutionise the food chain.  But can they really improve on nature?",
+          "created_at": "2016-03-07 09:45:18 UTC",
+          "updated_at": "2017-03-06 15:08:31 UTC",
+          "series_id": 1,
+          "video_url": "https://cdn-films.economist.com/FW/meat.m3u8",
+          "episode_number": 4,
+          "hide_title": false,
+          "subtitle": "Future Works: Episode 4",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/Meat_makers_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/portrait_Meat_makers_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/landscape_Meat_makers_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/square_Meat_makers_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/feature_Meat_makers_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/thumb_Meat_makers_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/full_width_Meat_makers_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/small_landscape_Meat_makers_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/3/small_portrait_Meat_makers_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Future Works: Meat makers",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/3/json",
+          "analytics_tags": {
+            "TwID": "economist-3",
+            "TwVideoName": "meat-makers",
+            "TwName": "Meat makers",
+            "TwLinkPage": "Meat makers",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/FW/meat.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 241,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/241/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/241/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-20 11:01:26 UTC",
+              "updated_at": "2017-01-20 11:01:26 UTC"
+            },
+            {
+              "id": 29,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/29/meat.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/29/thumb_meat.jpg"}},
+              "created_at": "2016-10-24 14:35:32 UTC",
+              "updated_at": "2016-10-24 14:35:32 UTC"
+            },
+            {
+              "id": 11,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/11/future_episode_meat_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/11/thumb_future_episode_meat_detail.jpg"}},
+              "created_at": "2016-10-24 14:23:24 UTC",
+              "updated_at": "2016-10-24 14:23:24 UTC"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Body Builders",
+          "description": "These bionic engineers may soon have the power to rebuild you.  The Body Builders are helping to develop the groundbreaking technology that is moving bionics from sci-fi fantasy to the commercial market",
+          "created_at": "2016-03-07 09:47:12 UTC",
+          "updated_at": "2017-03-06 15:10:44 UTC",
+          "series_id": 1,
+          "video_url": "https://cdn-films.economist.com/FW/bionics.m3u8",
+          "episode_number": 5,
+          "hide_title": false,
+          "subtitle": "Future Works: Episode 5",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/Body_builer_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/portrait_Body_builer_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/landscape_Body_builer_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/square_Body_builer_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/feature_Body_builer_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/thumb_Body_builer_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/full_width_Body_builer_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/small_landscape_Body_builer_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/6/small_portrait_Body_builer_thumbnail_875X480.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "youtube_id": "",
+          "publication_date": "2017-01-20 00:00:00 UTC",
+          "long_title": "Future Works: Body Builders",
+          "category_list": [
+
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/6/json",
+          "analytics_tags": {
+            "TwID": "economist-6",
+            "TwVideoName": "body-builders",
+            "TwName": "Body Builders",
+            "TwLinkPage": "Body Builders",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|20"
+          },
+          "video_file": "https://cdn-films.economist.com/FW/bionics.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 242,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/242/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/242/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-20 11:02:24 UTC",
+              "updated_at": "2017-01-20 11:02:24 UTC"
+            },
+            {
+              "id": 30,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/30/body.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/30/thumb_body.jpg"}},
+              "created_at": "2016-10-24 14:36:18 UTC",
+              "updated_at": "2016-10-24 14:36:18 UTC"
+            },
+            {
+              "id": 12,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/12/future_episode_body_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/12/thumb_future_episode_body_detail.jpg"}},
+              "created_at": "2016-10-24 14:23:46 UTC",
+              "updated_at": "2016-10-24 14:23:46 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "All series",
+      "series_id": null,
+      "order": 8,
+      "created_at": "2016-04-13 17:39:38 UTC",
+      "updated_at": "2017-02-22 11:08:03 UTC",
+      "thumbnail_size": "landscape",
+      "item_order": "",
+      "item_layout": "",
+      "type": "category",
+      "analytics_tags": {
+        "TwID": "economist-10",
+        "TwLinkPage": "All series _shelf",
+        "CreatedDate": "2016|04|13"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Future Works",
+          "description": "From bionic engineers to E-Sports superstars … meet the people doing tomorrow’s jobs today.  As new technology transforms the workplace, FutureWorks looks beyond the gadgets to reveal what its like to work in the emerging industries of the future.\r\n",
+          "created_at": "2016-03-07 09:26:34 UTC",
+          "updated_at": "2017-03-06 15:10:44 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/future_works_series_thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/portrait_future_works_series_thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/landscape_future_works_series_thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/square_future_works_series_thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/feature_future_works_series_thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/thumb_future_works_series_thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/full_width_future_works_series_thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/small_landscape_future_works_series_thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/1/small_portrait_future_works_series_thumbnail_875X480.jpg"}},
+          "episode_number": 6,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 5,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/1/json",
+          "analytics_tags": {
+            "TwID": "economist-1",
+            "TwName": "Future Works",
+            "TwLinkPage": "Future Works",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 42,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/42/bg_future_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/42/thumb_bg_future_series.jpg"}},
+              "created_at": "2016-10-24 14:49:23 UTC",
+              "updated_at": "2016-10-24 14:49:23 UTC"
+            },
+            {
+              "id": 67,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/67/future-works.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/67/thumb_future-works.png"}},
+              "created_at": "2016-10-24 15:17:31 UTC",
+              "updated_at": "2016-10-24 15:17:31 UTC"
+            },
+            {
+              "id": 234,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/234/sponsor_saleforce.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/234/thumb_sponsor_saleforce.png"}},
+              "created_at": "2017-01-19 15:37:44 UTC",
+              "updated_at": "2017-01-19 15:37:44 UTC"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Passport",
+          "description": "A travel series for the intellectually and culturally curious, Passport explores some of the most exciting city destinations in the world.   Follow at the shoulder of three colourful locals as they take you on a unique tour of their city, showing you the hidden spots they think everyone should see – if only you know where to look. ",
+          "created_at": "2016-03-07 09:48:39 UTC",
+          "updated_at": "2017-03-06 14:59:02 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/seriesthumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/portrait_seriesthumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/landscape_seriesthumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/square_seriesthumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/feature_seriesthumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/thumb_seriesthumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/full_width_seriesthumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/small_landscape_seriesthumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/3/small_portrait_seriesthumbnail_875X480.jpg"}},
+          "episode_number": 5,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 5,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/3/json",
+          "analytics_tags": {
+            "TwID": "economist-3",
+            "TwName": "Passport",
+            "TwLinkPage": "Passport",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 44,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/44/bg_passport_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/44/thumb_bg_passport_series.jpg"}},
+              "created_at": "2016-10-24 14:50:08 UTC",
+              "updated_at": "2016-10-24 14:50:08 UTC"
+            },
+            {
+              "id": 69,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/69/passport_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/69/thumb_passport_logo.png"}},
+              "created_at": "2016-10-24 15:18:12 UTC",
+              "updated_at": "2016-10-24 15:18:12 UTC"
+            },
+            {
+              "id": 249,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/249/sponsors_turkish.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/249/thumb_sponsors_turkish.png"}},
+              "created_at": "2017-01-20 11:18:23 UTC",
+              "updated_at": "2017-01-20 11:18:23 UTC"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "The Disrupters",
+          "description": "The digital revolution is driving change on an unprecedented scale.  Confronted by wave after wave of innovation, the pressure to adapt has never been greater.  But where there’s threat there’s also opportunity.  Disrupters takes you behind the scenes of some of the most successful start-ups on the planet – and reveals how their more established rivals are fighting back",
+          "created_at": "2016-05-04 21:30:25 UTC",
+          "updated_at": "2017-03-06 14:56:44 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/Disrupters_Series_Thumbnail_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/portrait_Disrupters_Series_Thumbnail_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/landscape_Disrupters_Series_Thumbnail_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/square_Disrupters_Series_Thumbnail_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/feature_Disrupters_Series_Thumbnail_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/thumb_Disrupters_Series_Thumbnail_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/full_width_Disrupters_Series_Thumbnail_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/small_landscape_Disrupters_Series_Thumbnail_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/4/small_portrait_Disrupters_Series_Thumbnail_875X480.jpg"}},
+          "episode_number": 4,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 3,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/4/json",
+          "analytics_tags": {
+            "TwID": "economist-4",
+            "TwName": "The Disrupters",
+            "TwLinkPage": "The Disrupters",
+            "CreatedDate": "2016|05|04",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 41,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/41/bg_disrupters_series.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/41/thumb_bg_disrupters_series.jpg"}},
+              "created_at": "2016-10-24 14:49:07 UTC",
+              "updated_at": "2016-10-24 14:49:07 UTC"
+            },
+            {
+              "id": 70,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/70/disrupters_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/70/thumb_disrupters_logo.png"}},
+              "created_at": "2016-10-24 15:18:29 UTC",
+              "updated_at": "2016-10-24 15:18:29 UTC"
+            },
+            {
+              "id": 251,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/251/sponsors_ey.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/251/thumb_sponsors_ey.png"}},
+              "created_at": "2017-01-20 11:21:43 UTC",
+              "updated_at": "2017-01-20 11:21:43 UTC"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "The Agenda",
+          "description": "THE AGENDA explores the defining questions of our time and seeks out the stories, solutions and the personalities who might just hold the answers.  Discover the mould-breakers experimenting with new ways to approach some of the modern world’s most fundamental issues; find out what happens when bold ideas and real life collide, and meet the leaders whose thoughts and actions are themselves helping to shape the agenda.   Series One of The Agenda: People Power gets to grips with the rise of populism and what lies behind it\r\n",
+          "created_at": "2017-01-16 12:34:22 UTC",
+          "updated_at": "2017-02-01 14:35:43 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/agenda_series_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/portrait_agenda_series_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/landscape_agenda_series_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/square_agenda_series_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/feature_agenda_series_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/thumb_agenda_series_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/full_width_agenda_series_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/small_landscape_agenda_series_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/6/small_portrait_agenda_series_875X480.jpg"}},
+          "episode_number": 3,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 6,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/6/json",
+          "analytics_tags": {
+            "TwID": "economist-6",
+            "TwName": "The Agenda",
+            "TwLinkPage": "The Agenda",
+            "CreatedDate": "2017|01|16",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 207,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/207/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/207/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-16 12:36:43 UTC",
+              "updated_at": "2017-01-16 12:36:43 UTC"
+            },
+            {
+              "id": 220,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/220/support_logo_credit.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/220/thumb_support_logo_credit.png"}},
+              "created_at": "2017-01-17 16:17:43 UTC",
+              "updated_at": "2017-01-17 16:17:43 UTC"
+            },
+            {
+              "id": 226,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/226/Agenda.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/226/thumb_Agenda.png"}},
+              "created_at": "2017-01-18 10:30:51 UTC",
+              "updated_at": "2017-01-18 10:30:51 UTC"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Global Compass",
+          "description": "Discover the radical thinking and powerful personalities tackling issues of life and death – and everything in between.  Global Compass searches for the key to solving some of the world’s biggest and most challenging problems – and reveals how one powerful idea can become the dynamo for change across the globe. ",
+          "created_at": "2016-03-07 09:27:10 UTC",
+          "updated_at": "2017-02-06 12:15:18 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/Global_compass_cover_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/portrait_Global_compass_cover_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/landscape_Global_compass_cover_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/square_Global_compass_cover_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/feature_Global_compass_cover_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/thumb_Global_compass_cover_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/full_width_Global_compass_cover_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/small_landscape_Global_compass_cover_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/2/small_portrait_Global_compass_cover_875X480.jpg"}},
+          "episode_number": 2,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-01-16 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 6,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/2/json",
+          "analytics_tags": {
+            "TwID": "economist-2",
+            "TwName": "Global Compass",
+            "TwLinkPage": "Global Compass",
+            "CreatedDate": "2016|03|07",
+            "PublicationDate": "2017|01|16"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 68,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/68/global-compas.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/68/thumb_global-compas.png"}},
+              "created_at": "2016-10-24 15:17:53 UTC",
+              "updated_at": "2016-10-24 15:17:53 UTC"
+            },
+            {
+              "id": 283,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/283/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/283/thumb_1920X1080.jpg"}},
+              "created_at": "2017-01-31 12:54:24 UTC",
+              "updated_at": "2017-01-31 12:54:24 UTC"
+            },
+            {
+              "id": 284,
+              "key": "eco_sponsor_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/284/supported_by_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/284/thumb_supported_by_logo.png"}},
+              "created_at": "2017-01-31 12:54:49 UTC",
+              "updated_at": "2017-01-31 12:54:49 UTC"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Daily Watch this week",
+          "description": "Daily Watch is a new way to experience The Economist on a daily basis - with an original, topical short film or video released every day of the working week.\r\n\r\nEach film forms part of an eclectic line-up of returning  strands and series - expect smart and succinct analysis, rigorous and accessible journalism and a good dose of wit.",
+          "created_at": "2016-10-26 13:29:09 UTC",
+          "updated_at": "2017-03-20 18:06:26 UTC",
+          "subtitle": "",
+          "hide_title": true,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/dailywatch_thumbnail2.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/portrait_dailywatch_thumbnail2.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/landscape_dailywatch_thumbnail2.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/square_dailywatch_thumbnail2.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/feature_dailywatch_thumbnail2.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/thumb_dailywatch_thumbnail2.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/full_width_dailywatch_thumbnail2.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/small_landscape_dailywatch_thumbnail2.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/5/small_portrait_dailywatch_thumbnail2.jpg"}},
+          "episode_number": 1,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "1987-08-27 00:00:00 UTC",
+          "hide_play_button": null,
+          "episode_count": 102,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/5/json",
+          "analytics_tags": {
+            "TwID": "economist-5",
+            "TwName": "Daily Watch this week",
+            "TwLinkPage": "Daily Watch this week",
+            "CreatedDate": "2016|10|26",
+            "PublicationDate": "1987|08|27"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 86,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/86/dailywatch_logo.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/86/thumb_dailywatch_logo.png"}},
+              "created_at": "2016-10-29 17:35:19 UTC",
+              "updated_at": "2016-10-29 17:35:19 UTC"
+            },
+            {
+              "id": 91,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/91/dailywatch_bg_android.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/91/thumb_dailywatch_bg_android.jpg"}},
+              "created_at": "2016-11-04 19:30:42 UTC",
+              "updated_at": "2016-11-04 19:30:42 UTC"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Ocean",
+          "description": "The Oceans series examines the cutting edge science and radical thinking at work in tackling the crisis facing the world’s seas. This series reflects the passion of those at the frontline of marine biology, and tells the story of the challenge now confronting us as we explore the world’s oceans\r\n",
+          "created_at": "2017-02-21 15:00:06 UTC",
+          "updated_at": "2017-03-20 12:42:16 UTC",
+          "subtitle": "",
+          "hide_title": false,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/Series_875X480.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/portrait_Series_875X480.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/landscape_Series_875X480.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/square_Series_875X480.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/feature_Series_875X480.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/thumb_Series_875X480.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/full_width_Series_875X480.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/small_landscape_Series_875X480.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/series/thumbnail/7/small_portrait_Series_875X480.jpg"}},
+          "episode_number": null,
+          "published": 1,
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":null,"landscape":{"url":null},"thumb":{"url":null},"small_landscape":{"url":null}},
+          "publication_date": "2017-02-22 00:00:00 UTC",
+          "hide_play_button": false,
+          "episode_count": 1,
+          "category_list": [
+            "Top Shelf"
+          ],
+          "type": "Series",
+          "json_URL": "/api/v1/series/7/json",
+          "analytics_tags": {
+            "TwID": "economist-7",
+            "TwName": "Ocean",
+            "TwLinkPage": "Ocean",
+            "CreatedDate": "2017|02|21",
+            "PublicationDate": "2017|02|22"
+          },
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 319,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/319/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/319/thumb_1920X1080.jpg"}},
+              "created_at": "2017-02-22 11:40:26 UTC",
+              "updated_at": "2017-02-22 11:40:26 UTC"
+            },
+            {
+              "id": 335,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/335/400x400.png","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/335/thumb_400x400.png"}},
+              "created_at": "2017-02-28 11:10:05 UTC",
+              "updated_at": "2017-02-28 11:10:05 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Featured",
+      "series_id": null,
+      "order": 9,
+      "created_at": "2016-05-04 20:42:31 UTC",
+      "updated_at": "2017-02-22 11:08:03 UTC",
+      "thumbnail_size": "full_width",
+      "item_order": "",
+      "item_layout": "",
+      "type": "category",
+      "analytics_tags": {
+        "TwID": "economist-14",
+        "TwLinkPage": "Featured _shelf",
+        "CreatedDate": "2016|05|04"
+      },
+      "items": [
+        {
+          "id": 17,
+          "title": "Introducing Economist Films",
+          "description": "What do the jobs of tomorrow look like? Can you make meat without animals? Will startups take us to the stars? What’s the best way to regulate drugs? Economist Films makes short, mind-stretching documentaries that examine big global themes. Each one combines analysis, on-the-ground reporting and a dash of humour to capture the essence of The Economist, the leading current-affairs newspaper, in video form.",
+          "created_at": "2016-04-27 20:20:43 UTC",
+          "updated_at": "2016-10-24 15:19:14 UTC",
+          "series_id": null,
+          "video_url": "https://cdn-films.economist.com/SE/showreel.m3u8",
+          "episode_number": 1,
+          "hide_title": false,
+          "subtitle": "Episode 1",
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/full-width-showreel-v2.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/portrait_full-width-showreel-v2.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/landscape_full-width-showreel-v2.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/square_full-width-showreel-v2.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/feature_full-width-showreel-v2.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/thumb_full-width-showreel-v2.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/full_width_full-width-showreel-v2.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/small_landscape_full-width-showreel-v2.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/17/small_portrait_full-width-showreel-v2.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/17/landscape_thumbnail_introducing.jpg","landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/17/landscape_landscape_thumbnail_introducing.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/17/thumb_landscape_thumbnail_introducing.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/17/small_landscape_landscape_thumbnail_introducing.jpg"}},
+          "youtube_id": null,
+          "publication_date": "1987-08-27 00:00:00 UTC",
+          "long_title": null,
+          "category_list": [
+            "Introducing Economist Films"
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/17/json",
+          "analytics_tags": {
+            "TwID": "economist-17",
+            "TwVideoName": "introducing-economist-films",
+            "TwName": "Introducing Economist Films",
+            "TwLinkPage": "Introducing Economist Films",
+            "CreatedDate": "2016|04|27",
+            "PublicationDate": null
+          },
+          "video_file": "https://cdn-films.economist.com/SE/showreel.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 72,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/72/full-width-showreel_1632_detail.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/72/thumb_full-width-showreel_1632_detail.jpg"}},
+              "created_at": "2016-10-24 15:19:14 UTC",
+              "updated_at": "2016-10-24 15:19:14 UTC"
+            },
+            {
+              "id": 39,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/39/showreel.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/39/thumb_showreel.jpg"}},
+              "created_at": "2016-10-24 14:47:45 UTC",
+              "updated_at": "2016-10-24 14:47:45 UTC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "More from The Economist",
+      "series_id": null,
+      "order": 10,
+      "created_at": "2016-04-14 14:45:41 UTC",
+      "updated_at": "2017-02-22 11:08:03 UTC",
+      "thumbnail_size": "full_width",
+      "item_order": "",
+      "item_layout": "",
+      "type": "category",
+      "analytics_tags": {
+        "TwID": "economist-11",
+        "TwLinkPage": "More from The Economist _shelf",
+        "CreatedDate": "2016|04|14"
+      },
+      "items": [
+        {
+          "id": 72,
+          "title": "The World In 2017",
+          "description": "What will be the top ten stand out moments of 2017?  Each year we reveal what will hit the global zeitgeist and why; the major changes that are going to bring us together and tear us apart; the stories we’ll be loving, hating or fearing. The World In… brings you tomorrow’s water-cooler moments, today",
+          "created_at": "2016-12-21 14:11:39 UTC",
+          "updated_at": "2017-02-07 12:10:04 UTC",
+          "series_id": null,
+          "video_url": "https://cdn-films.economist.com/DW/DEC27/WI_FULL_FILM_1227.m3u8",
+          "episode_number": null,
+          "hide_title": false,
+          "subtitle": null,
+          "thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/full_width_full_width_875X480dc1.jpg","portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/portrait_full_width_full_width_875X480dc1.jpg"},"landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/landscape_full_width_full_width_875X480dc1.jpg"},"square":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/square_full_width_full_width_875X480dc1.jpg"},"feature":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/feature_full_width_full_width_875X480dc1.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/thumb_full_width_full_width_875X480dc1.jpg"},"full_width":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/full_width_full_width_full_width_875X480dc1.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/small_landscape_full_width_full_width_875X480dc1.jpg"},"small_portrait":{"url":"https://cdn.twivel.io/uploads/economist/episode/thumbnail/72/small_portrait_full_width_full_width_875X480dc1.jpg"}},
+          "published": 1,
+          "video_type": "URL",
+          "preview_video": "",
+          "preview_video_type": "URL",
+          "itunes_link": "",
+          "web_share_url": "",
+          "landscape_thumbnail": {"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/72/1920X1080.jpg","landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/72/landscape_1920X1080.jpg"},"thumb":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/72/thumb_1920X1080.jpg"},"small_landscape":{"url":"https://cdn.twivel.io/uploads/economist/episode/landscape_thumbnail/72/small_landscape_1920X1080.jpg"}},
+          "youtube_id": "",
+          "publication_date": "2016-12-31 00:00:00 UTC",
+          "long_title": null,
+          "category_list": [
+            "The World In 2017"
+          ],
+          "type": "Episode",
+          "json_URL": "/api/v1/episode/72/json",
+          "analytics_tags": {
+            "TwID": "economist-72",
+            "TwVideoName": "the-world-in-2017",
+            "TwName": "The World In 2017",
+            "TwLinkPage": "The World In 2017",
+            "CreatedDate": "2016|12|21",
+            "PublicationDate": "2016|12|31"
+          },
+          "video_file": "https://cdn-films.economist.com/DW/DEC27/WI_FULL_FILM_1227.m3u8",
+          "preview_file": "",
+          "additional_assets": [
+            {
+              "id": 182,
+              "key": "eco_background",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/182/1920X1080.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/182/thumb_1920X1080.jpg"}},
+              "created_at": "2016-12-22 17:41:43 UTC",
+              "updated_at": "2016-12-22 17:41:43 UTC"
+            },
+            {
+              "id": 181,
+              "key": "eco_detail_logo",
+              "file": {"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/181/400X400.jpg","thumb":{"url":"https://cdn.twivel.io/uploads/economist/additional_asset/file/181/thumb_400X400.jpg"}},
+              "created_at": "2016-12-22 17:40:17 UTC",
+              "updated_at": "2016-12-22 17:40:17 UTC"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "config": {
+    "app_theme": "dark",
+    "frontpage_back": "https://cdn.twivel.io/uploads/economist/app_setting/frontpage_back/1/back-dark-drop-shad-2.jpg",
+    "header_image": "https://cdn.twivel.io/uploads/economist/app_setting/header_image/1/header-drop-shad-3.jpg",
+    "header_image_height": "190",
+    "twitter_handle": "",
+    "app_name": "Economist Films",
+    "mobile_header_image": "https://cdn.twivel.io/uploads/economist/app_setting/mobile_header_image/1/economist_navi2__1_.png",
+    "mobile_header_colour": "#111111",
+    "mobile_header_pos": "left",
+    "mobile_background_image": null
+  }
+}

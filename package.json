@@ -60,6 +60,8 @@
     "react-bootstrap": "^0.30.8",
     "react-dom": "^15.4.2",
     "react-router": "^3.0.2",
+    "react-slick": "^0.14.7",
+    "slick-carousel": "^1.6.0",
     "video.js": "^5.18.4"
   },
   "scripts": {
@@ -80,7 +82,8 @@
       "src/**/*.{js,jsx}"
     ],
     "setupFiles": [
-      "<rootDir>/config/polyfills.js"
+      "<rootDir>/config/polyfills.js",
+      "<rootDir>/config/matchMediaPolyfill.js"
     ],
     "testPathIgnorePatterns": [
       "<rootDir>[/\\\\](build|docs|node_modules|scripts)[/\\\\]"

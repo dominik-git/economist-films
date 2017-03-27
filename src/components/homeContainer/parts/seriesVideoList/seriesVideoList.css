@@ -1,0 +1,31 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+
+.containerX {
+  margin: 0 auto;
+  padding: 40px;
+  width: 100%;
+  color: #333;
+  background: #419be0;
+}
+
+.center .slick-center h3 {
+  opacity: 1;
+  font-size: 35px;
+  transition: all 0.3s ease;
+}
+
+.center .slick-center {
+  display: block;
+  background: blue;
+  opacity: 1;
+  font-size: 35px;
+  transition: all 0.8s ease;
+}
+
+.slick-slide p,
+h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+}

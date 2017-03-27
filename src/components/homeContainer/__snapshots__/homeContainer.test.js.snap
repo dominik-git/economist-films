@@ -1,4 +1,8 @@
 exports[`test HomeContainer renders correctly 1`] = `
 <div
-  className="home-container" />
+  className="home-container">
+  <p>
+    Loading...
+  </p>
+</div>
 `;

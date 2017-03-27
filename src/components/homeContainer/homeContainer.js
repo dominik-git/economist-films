@@ -21,12 +21,14 @@ class HomeContainer extends React.Component {
     .then(response => response.json())
     .then((data) => {
       this.setState({ data });
-    });
+    })
+    .catch(e => e);
   }
+
   render() {
     return (
       <div className="home-container">
-        {this.state.data.shelves ? <Home shelves={this.state.data.shelves} /> : null}
+        {this.state.data.shelves ? <Home shelves={this.state.data.shelves} /> : <p>Loading...</p>}
       </div>
     );
   }
