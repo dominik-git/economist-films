@@ -1,0 +1,49 @@
+@import '../../../colors.css';
+
+:root {
+  --video-controls-icon-margin: 20px;
+  --progress-bar-height: 10px;
+}
+
+.player-interface__navigation-control {
+  display: inline-block;
+  margin: 0 var(--video-controls-icon-margin);
+  background: var(--economist-grey);
+  border: none;
+}
+
+.player-interface__navigation-control:focus {
+  outline: 0;
+}
+
+.player-interface__progress-bar-container {
+  display: inline-block;
+  background: gray;
+  width: 100%;
+  height: var(--progress-bar-height);
+}
+
+.player-interface__progress-bar {
+  background: var(--economist-red);
+  height: 100%;
+}
+
+.player-interface__navigation-wrapper {
+  display: block;
+  margin: 15px 0;
+  margin-top: 30px;
+}
+
+.player-interface {
+  background: var(--economist-blackOpacity);
+  width: 50%;
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  margin-left: -25%;
+  text-align: center;
+}
+
+.player-interface-navigation-icons {
+  width: 50%;
+}
